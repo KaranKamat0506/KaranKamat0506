@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: https://www.reddit.com/user/Karan_Kamat  
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaranKamat0506&&show_icons=true&title_color=ffffff&icon_color=2dbecd&text_color=daf7dc&bg_color=">
+<img src="https://github-readme-stats.vercel.app/api?username=KaranKamat0506&&show_icons=true&title_color=ffffff&icon_color=2dbecd&text_color=daf7dc&bg_color=115C62">
 
 
 
