@@ -19,7 +19,7 @@ Skills: PYTHON / JAVA / JS / HTML / CSS
 
 |  |  |
 |--|--|
-| ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KaranKamat0506) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKamat0506&theme=vue&hide=CSS)|
+|  ![GitHub metrics](https://metrics.lecoq.io/KaranKamat0506) |  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KaranKamat0506)|
 
   
 
@@ -27,5 +27,5 @@ Skills: PYTHON / JAVA / JS / HTML / CSS
 
 |  |  |
 |--|--|
-| ![GitHub metrics](https://metrics.lecoq.io/KaranKamat0506) | <img src="https://github-readme-stats.vercel.app/api?username=KaranKamat0506&&show_icons=true&title_color=1196A7&icon_color=1196A7&text_color=1196A7&bg_color=FFFFFF"> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKamat0506&theme=vue&hide=CSS)| <img src="https://github-readme-stats.vercel.app/api?username=KaranKamat0506&&show_icons=true&title_color=1196A7&icon_color=1196A7&text_color=1196A7&bg_color=FFFFFF"> |
 
