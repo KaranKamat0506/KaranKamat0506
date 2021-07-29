@@ -7,7 +7,7 @@
 
 > You don't know how fast time goes by until you get there.
 
-Skills: PYTHON / JAVA / JS / HTML / CSS
+Skills: PYTHON / JAVA / C / C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaranKamat0506)  &nbsp; &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/daxt3r_t3ch)  &nbsp; &nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Karan_Kamat )  
 
