@@ -1,4 +1,11 @@
-### Hi there ! I am Karan 💻
+## ✨ About Me
+
+👋 Hi, I'm Karan Kamat, 
+ **Data Engineer** with hands-on experience in  
+🛠️ SQL and 💻 Python programming languages.  
+I leverage Apache Spark ⚡and PySpark 💻 to build efficient ETL workflows and scalable data pipelines.  
+Focused on delivering high-quality data solutions that drive business insights and automation. 🌟 
+<br>Always eager to learn new technologies and improve data solutions! 🚀
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaranKamat0506)  &nbsp; &nbsp;&nbsp;&nbsp; 
