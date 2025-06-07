@@ -7,7 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/><img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/> <img src="https://img.shields.io/badge/Oracle_SQL-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL"/>
  <img src="https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/> <img src="https://img.shields.io/badge/Apache_Kafka-%2300112C.svg?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/> <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/> <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
- <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="VS Code"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> </p>
 <!-- <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp; &nbsp;&nbsp;&nbsp;
