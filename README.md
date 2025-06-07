@@ -17,14 +17,9 @@
 
 [![@karankamat's Holopin board](https://holopin.io/api/user/board?user=karankamat)](https://holopin.io/@karankamat)
 
-| GitHub Streak Stats |
-|---------------------|
-| ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KaranKamat0506) |
+## 📊 GitHub Stats
 
-
-
-
-|  |  |
-|--|--|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKamat0506&theme=vue&hide=CSS)| <img src="https://github-readme-stats.vercel.app/api?username=KaranKamat0506&&show_icons=true&title_color=1196A7&icon_color=1196A7&text_color=1196A7&bg_color=FFFFFF"> |
+| 🔥 GitHub Streaks | 📈 GitHub Stats | 🗂️ Most Used Languages |
+|------------------|----------------|-------------------------|
+| ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KaranKamat0506) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranKamat0506&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKamat0506&layout=compact) |
 
