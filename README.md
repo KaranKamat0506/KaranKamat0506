@@ -17,12 +17,10 @@
 
 [![@karankamat's Holopin board](https://holopin.io/api/user/board?user=karankamat)](https://holopin.io/@karankamat)
 
+| GitHub Streak Stats |
+|---------------------|
+| ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KaranKamat0506) |
 
-|  |  |
-|--|--|
-|  ![GitHub metrics](https://metrics.lecoq.io/KaranKamat0506) |  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KaranKamat0506)|
-
-  
 
 
 
