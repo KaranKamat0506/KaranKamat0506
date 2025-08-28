@@ -29,5 +29,5 @@ Focused on delivering high-quality data solutions that drive business insights a
 
 | 🔥 GitHub Streaks | 📈 GitHub Stats | 🗂️ Most Used Languages |
 |------------------|----------------|-------------------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaranKamat0506) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranKamat0506&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKamat0506&layout=compact) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaranKamat0506) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranKamat0506&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKamat0506&layout=donut) |
 
