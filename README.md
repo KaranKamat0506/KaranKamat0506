@@ -23,7 +23,6 @@ Focused on delivering high-quality data solutions that drive business insights a
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;&nbsp;&nbsp;</p> -->
 
 ## 🎃 Hacktoberfest Contribution
-[![@karankamat's Holopin board](https://holopin.io/api/user/board?user=karankamat)](https://holopin.io/@karankamat)
 [![An image of @karankamat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karankamat)](https://holopin.io/@karankamat)
 
 ## 📊 GitHub Stats
